@@ -158,6 +158,8 @@ GrimReaper ESP32-C5 was developed using:
 - Persistent ESP32 storage.
 - Device-side scheduling and time synchronization.
 
+---
+
 ## 📜 License
 
 This project is provided for educational and authorized testing purposes only.

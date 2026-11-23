@@ -1,9 +1,8 @@
 ![GrimReaper ESP32-C5](assets/icon/app_icon.png)
-
-<h1 align="center">💀 GrimReaper ESP32-C5</h1>
+<h1 align="center">GrimReaper ESP32-C5</h1>
 
 <p align="center">
-  <strong>ESP32-C5 Wi-Fi Scanner & Monitoring System</strong>
+  <strong>ESP32-C5 Wi-Fi Scanner & Deauther</strong>
   <br>
   Powered by ESP32-C5, Bluetooth LE and Flutter.
 </p>
@@ -11,8 +10,6 @@
 <p align="center">
   <em>One device. One application. One integrated monitoring platform.</em>
 </p>
-
-**A Bluetooth Low Energy (BLE) Wi-Fi Scanner and Deauther powered by ESP32-C5 and Flutter.**
 
 GrimReaper ESP32-C5 is an ESP32-C5-based Wi-Fi scanning and deauth project with a dedicated Flutter Android application. It combines embedded firmware, BLE communication, network discovery, saved network management, and an advanced device-side scheduling system into one integrated platform.
 

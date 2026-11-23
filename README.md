@@ -1,3 +1,5 @@
+![GrimReaper ESP32-C5](assets/icon/app_icon.png)
+
 <h1 align="center">💀 GrimReaper ESP32-C5</h1>
 
 <p align="center">

@@ -186,5 +186,6 @@ Developed through experimentation, embedded systems development, Bluetooth commu
 
 This project is inspired by these awesome projects:
 
-[Link Text](https://github.com/x1watt/esp32-c5-deauth)
-[Link Text](ttps://github.com/AnvilBrain/esp32-c5-dualband-deauther)
+[x1watt/esp32-c5-deauth](https://github.com/x1watt/esp32-c5-deauth)
+
+[AnvilBrain/esp32-c5-dualband-deauther](ttps://github.com/AnvilBrain/esp32-c5-dualband-deauther)

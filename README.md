@@ -188,4 +188,4 @@ This project is inspired by these awesome projects:
 
 [x1watt/esp32-c5-deauth](https://github.com/x1watt/esp32-c5-deauth)
 
-[AnvilBrain/esp32-c5-dualband-deauther](ttps://github.com/AnvilBrain/esp32-c5-dualband-deauther)
+[AnvilBrain/esp32-c5-dualband-deauther](https://github.com/AnvilBrain/esp32-c5-dualband-deauther)
